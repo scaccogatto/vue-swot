@@ -22,7 +22,7 @@
             :key="index"></li>
         </ul>
       </div>
-Y
+
       <div class="swot__w">
         <h3>Weaknesses</h3>
         <ul>
