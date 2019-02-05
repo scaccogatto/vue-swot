@@ -1,0 +1,44 @@
+[
+  {
+    "objective": "SWOT analysis",
+    "points": {
+      "s": [
+        "VueJS based",
+        "Easy to learn"
+      ],
+      "w": [
+        "Devs are devs",
+        "Meetings"
+      ],
+      "o": [
+        "My boss will understand me",
+        "Open Source contributions"
+      ],
+      "t": [
+        "Too much time spent here",
+        "Side projects"
+      ]
+    }
+  },
+  {
+    "objective": "VueJS",
+    "points": {
+      "s": [
+        "Easy to learn",
+        "PWA Ready"
+      ],
+      "w": [
+        "Less jobs",
+        "No big firm"
+      ],
+      "o": [
+        "Learning ES6",
+        "Typescript"
+      ],
+      "t": [
+        "Project lifecycle",
+        "Spaghetti code if not good programmer"
+      ]
+    }
+  }
+]
