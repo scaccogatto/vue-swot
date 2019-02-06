@@ -5,7 +5,7 @@
 
 ## Demo
 
-https://vue-swot.marcoboffo.me
+https://scaccogatto.github.io/vue-swot/
 
 ## Create your SWOT
 
